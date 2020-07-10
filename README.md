@@ -2,3 +2,5 @@
 just for test
 
 ize mize
+
+ujabb szöveg
